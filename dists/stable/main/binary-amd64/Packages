@@ -1,0 +1,14 @@
+Package: mercededitor
+Version: 1.1-1
+Architecture: amd64
+Maintainer: Tu Nombre <tu@email.com>
+Depends: python3, python3-tk
+Filename: pool/main/mercededitor_1.1-1_amd64.deb
+Size: 1004
+MD5sum: ac48d636597da8131e2d94711cf117ed
+SHA1: 23289d271f7a3e53cf6df3d8b32ded516123f884
+SHA256: 9bd12be514a076fdb1ebb58a384b1cbff7a84d2d142824206f4a1793cf40407a
+Section: utils
+Priority: optional
+Description: MercedEditor v1.1. Editor de texto moderno y ultraligero con menú de autocompletado interactivo.
+
